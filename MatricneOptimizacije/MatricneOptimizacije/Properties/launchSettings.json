@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MatricneOptimizacije": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
